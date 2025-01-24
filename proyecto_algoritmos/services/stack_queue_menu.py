@@ -69,7 +69,7 @@ def run_stack_queue_menu():
             pop_stack(stack)
 
         elif opcion == "3":
-            item = input("Ingrese el elemento a encolar: ")
+            item = input("Ingrese el elemento a la queue: ")
             enqueue(queue, item)
 
         elif opcion == "4":
