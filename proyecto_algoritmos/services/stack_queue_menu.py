@@ -83,7 +83,7 @@ def run_stack_queue_menu():
             print("Saliendo del programa.")
             break
         else:
-            print("Opción no válida.")
+            print("Opción no válida, vuelva intentar.")
 
 def main_menu_demo():
     #Punto de entrada rápido para mostar el menú en acción
