@@ -91,7 +91,7 @@ def merge_sort(arr):
 
 def sorting_demo():
     """
-    Demostración de los algoritmos de ordenamiento.
+    Demostración de los algoritmos de ordenamiento. cambios
     """
     data_bubble = [34, 2, 78, 1, 56, 9]
     data_insertion = [34, 2, 78, 1, 56, 9]
